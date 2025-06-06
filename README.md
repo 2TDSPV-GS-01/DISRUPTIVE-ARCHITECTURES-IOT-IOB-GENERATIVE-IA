@@ -54,13 +54,25 @@ A arquitetura implementada conecta um protótipo físico (ESP32) com sensores am
 
 ---
 
+## **Arquitetura da Solução**
+
+- **Backend**: ASP.NET 8.0
+- **Banco de Dados**: Oracle XE 21c
+- **Containerização**: Docker
+- **Rede Docker**: `fonteviva-net`
+- **Volumes**: `oracle-data`
+
+<img src="img/estrutura.png" alt="Estação de tratamento" width=700/>
+
+---
+
 ## **Componentes da Solução**
 
 ### 1. _API para integração com Banco de Dados_
 
 A API está implementada em ASP.NET, hospedada em ambiente cloud (Azure), e expõe um endpoint do tipo `POST` para registro das leituras recebidas.
 
-[Repositório da API no GitHub](#) _(em breve)_
+[Repositório ASP.NET no GitHub](#https://github.com/2TDSPV-GS-01/ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET)
 
 ---
 
@@ -141,5 +153,27 @@ Ao receber a mensagem MQTT, o Node-RED:
 - Infraestrutura simulada para cenários críticos
 - Modular e escalável
 
+---
 
- 
+## **RepositórioS**
+
+- GitHub: [DEVOPS-TOOLS-CLOUD-COMPUTING](https://github.com/2TDSPV-GS-01/DEVOPS-TOOLS-CLOUD-COMPUTING)
+- GitHub: [ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET](https://github.com/2TDSPV-GS-01/ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET)
+- GitHub: [DISRUPTIVE-ARCHITECTURES-IOT-IOB-GENERATIVE-IA](https://github.com/2TDSPV-GS-01/DISRUPTIVE-ARCHITECTURES-IOT-IOB-GENERATIVE-IA)
+
+---
+
+## **Vídeo Demonstração**
+
+YouTube: [https://youtube.com/seu-video](https://youtube.com/seu-video)
+
+---
+
+## **Integrantes**
+
+- Nome: Francesco Di Benedetto
+  RM: RM557313
+- Nome: Nathalia Gomes da Silva
+  RM: RM554945
+- Nome: Gustavo Goulart Bretas
+  RM: RM555708
