@@ -11,8 +11,8 @@
 
 // Identificadores
 const char *ID = "1";
-const char *moduleID = "303";
-const int IdSensor = 303;
+const char *moduleID = "329";
+const int IdSensor = 329;
 
 // Wi-Fi
 const char *SSID = "Francescos";
