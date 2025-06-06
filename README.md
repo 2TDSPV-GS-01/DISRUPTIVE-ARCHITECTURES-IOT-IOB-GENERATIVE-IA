@@ -155,7 +155,7 @@ Ao receber a mensagem MQTT, o Node-RED:
 
 ---
 
-## **RepositórioS**
+## **Repositórios**
 
 - GitHub: [DEVOPS-TOOLS-CLOUD-COMPUTING](https://github.com/2TDSPV-GS-01/DEVOPS-TOOLS-CLOUD-COMPUTING)
 - GitHub: [ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET](https://github.com/2TDSPV-GS-01/ADVANCED-BUSINESS-DEVELOPMENT-WITH-.NET)
@@ -165,7 +165,7 @@ Ao receber a mensagem MQTT, o Node-RED:
 
 ## **Vídeo Demonstração**
 
-YouTube: [https://youtube.com/seu-video](https://youtube.com/seu-video)
+YouTube: [Link do video](https://www.youtube.com/watch?v=Ra9Wav-MWzk)
 
 ---
 
